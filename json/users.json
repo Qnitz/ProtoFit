@@ -1,0 +1,40 @@
+
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Miriam",
+            "email": "Miriam@gmail.com",
+            "group": "admin",
+            "password": "123"
+        },
+        {
+            "id": 2,
+            "username": "Nitz",
+            "email": "Nitz@gmail.com",
+            "group": "Krembo 1",
+            "password": "123"
+        },
+        {
+            "id": 3,
+            "username": "Nikolai",
+            "email": "Nik@gmail.com",
+            "group": "Krembo 1",
+            "password": "123"
+        },
+        {
+            "id": 4,
+            "username": "Shlomi",
+            "email": "Shlom@gmail.com",
+            "group": "Krembo 2",
+            "password": "123"
+        },
+        {
+            "id": 5,
+            "username": "Rami",
+            "email": "Rami@gmail.com",
+            "group": "admin",
+            "password": "123"
+        }
+    ]
+}

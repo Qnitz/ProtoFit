@@ -1,0 +1,15 @@
+.rating {
+    direction: rtl;
+  }
+  .rating a {
+    font-size: 30px;
+    text-decoration: none;
+    color: #aaa;
+  }
+  .rating a:hover,
+  .rating a:hover ~ a,
+  .rating a.active,
+  .rating a.active ~ a {
+    color: #ffa700;
+  }
+  
